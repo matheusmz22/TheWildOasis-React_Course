@@ -1,6 +1,8 @@
 # The Wild Oasis – Hotel Management Application  
 This project was developed during *The Ultimate React Course 2025* by Jonas Schmedtmann.  
 
+https://the-wild-oasis-react-course.vercel.app/
+
 ## About the Project  
 The Wild Oasis is a hotel management web application that allows staff to manage cabins, bookings, guests, and check-ins, all in real time using Supabase as the backend.  
 
